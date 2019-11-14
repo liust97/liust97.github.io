@@ -15,6 +15,6 @@ email: liust97@outlook.com
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-152514956-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
